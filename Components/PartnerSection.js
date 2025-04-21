@@ -19,7 +19,7 @@ const PartnerSection = () => {
         },
     ]
     return (
-        <div className='text-black flex flex-col lg:flex-row items-center justify-center gap-28 lg:px-52 lg:mx-auto mt-10'>
+        <div className='text-black flex flex-col lg:flex-row items-center justify-center gap-28 lg:px-52 lg:mx-auto mt-10 px-4'>
             <Image src="/trustedPartner.png" alt="Trusted Partner" width={500} height={300} />
             <div className=''>
                 <p className='text-red-500'>* About us</p>

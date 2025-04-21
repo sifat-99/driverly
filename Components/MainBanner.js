@@ -4,7 +4,7 @@ import React from 'react'
 function Banner() {
     return (
         <div
-            className="relative flex flex-col items-center justify-center text-center py-24 px-6 bg-no-repeat bg-center bg-cover mx-auto w-full max-w-screen-xl aspect-[16/7] mt-4 overflow-hidden rounded-4xl"
+            className="relative flex flex-col items-center justify-center text-center py-24 px-6 bg-no-repeat bg-center bg-cover mx-auto w-full max-w-screen-xl aspect-[16/7] mt-4 overflow-hidden rounded-4xl h-96 md:h-full"
             style={{
                 backgroundImage: "url('/MainBanner.png')",
             }}
