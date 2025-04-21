@@ -22,7 +22,7 @@ function Banner() {
                 </h1>
 
                 <p className="max-w-md md:max-w-xl mx-auto mb-6 text-sm md:text-base text-gray-300">
-                    Whether you're planning a weekend getaway, a business trip, or just need a reliable ride for the day,
+                    Whether you`&apos;`re planning a weekend getaway, a business trip, or just need a reliable ride for the day,
                     we offer a wide range of vehicles to suit your needs.
                 </p>
 
