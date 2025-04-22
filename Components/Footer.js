@@ -13,7 +13,7 @@ function Footer() {
                         <span className="text-red-500">Driver</span>Ly
                     </h2>
                     <p className="text-gray-400 mt-2">
-                        Experience the ease and convenience of renting a car with Novaride.
+                        Experience the ease and convenience of renting a car with DriverLy.
                     </p>
                 </div>
 
