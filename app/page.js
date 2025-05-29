@@ -4,12 +4,11 @@ import Banner from "@/Components/MainBanner";
 import Navbar from "@/Components/Navbar";
 import PartnerSection from "@/Components/PartnerSection";
 import Service from "@/Components/Service";
-import Image from "next/image";
 
 export default function Home() {
     return (
         <div>
-            <section className="w-[1440px} mx-auto">
+            <section className="w-[1440px} mx-auto bg-white">
                 <Navbar />
                 <Banner />
                 <PartnerSection />

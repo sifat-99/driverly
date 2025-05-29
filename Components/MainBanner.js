@@ -1,4 +1,5 @@
 'use client'
+import Link from 'next/link'
 import React from 'react'
 
 function Banner() {
@@ -22,14 +23,14 @@ function Banner() {
                 </h1>
 
                 <p className="max-w-md md:max-w-xl mx-auto mb-6 text-sm md:text-base text-gray-300">
-                    Whether you`&apos;`re planning a weekend getaway, a business trip, or just need a reliable ride for the day,
+                    Whether you&apos;re planning a weekend getaway, a business trip, or just need a reliable ride for the day,
                     we offer a wide range of vehicles to suit your needs.
                 </p>
 
                 <div className="flex flex-col sm:flex-row justify-center gap-4">
-                    <button className="btn bg-red-500 text-white hover:bg-red-600 px-6 py-2 text-sm md:text-base">
+                    <Link href={'/book'} className="btn bg-red-500 text-white hover:bg-red-600 px-6 py-2 text-sm md:text-base">
                         Book A Rental
-                    </button>
+                    </Link>
                     <button className="btn btn-outline text-white border-white px-6 py-2 text-sm md:text-base">
                         Learn More
                     </button>
