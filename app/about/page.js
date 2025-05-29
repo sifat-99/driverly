@@ -20,7 +20,7 @@ export default function AboutPage() {
                     <p className="text-gray-700 text-lg leading-relaxed max-w-3xl mx-auto text-center">
                         At DriverLy, our mission is to provide an exceptional car rental experience by offering a diverse fleet of high-quality vehicles,
                         transparent pricing, and outstanding customer service. We aim to make your journey smooth, enjoyable, and hassle-free,
-                        whether you're traveling for business or leisure.
+                        whether you&apos;re traveling for business or leisure.
                     </p>
                 </section>
 
@@ -42,7 +42,7 @@ export default function AboutPage() {
                         </div>
                         <div className=" p-6 rounded-lg shadow-md text-center">
                             <h3 className="text-xl font-semibold text-blue-500 mb-2">Transparent Pricing</h3>
-                            <p className="text-gray-600">No hidden fees. We believe in clear and upfront pricing, so you know exactly what you're paying for.</p>
+                            <p className="text-gray-600">No hidden fees. We believe in clear and upfront pricing, so you know exactly what you&apos;re paying for.</p>
                         </div>
                         <div className=" p-6 rounded-lg shadow-md text-center">
                             <h3 className="text-xl font-semibold text-blue-500 mb-2">Customer Focused</h3>
